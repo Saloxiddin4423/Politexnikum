@@ -1477,7 +1477,7 @@ a:hover, a:focus, a:active {
     height: 200px;
   }
 }
-.probootstrap-service-2 .image .image-bg {
+.probootstrap-service-2 .image .image-bqqg {
   position: absolute;
   left: 50%;
   top: 50%;
@@ -1485,7 +1485,7 @@ a:hover, a:focus, a:active {
   -ms-transform: translateY(-50%) translateX(-50%);
   transform: translateY(-50%) translateX(-50%);
 }
-.probootstrap-service-2 .image .image-bg img {
+.probootstrap-service-2 .image .image-bqqg img {
   min-width: 100%;
   min-height: 100%;
 }
